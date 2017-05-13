@@ -1,0 +1,25 @@
+{
+  "name": "isalcedo.co",
+  "authors": [
+    "isalcedo <ignacio@isalcedo.com>"
+  ],
+  "description": "New isalcedo.com to Colombia",
+  "main": "index.html",
+  "keywords": [
+    "Web",
+    "Developer"
+  ],
+  "license": "MIT",
+  "homepage": "http://isalcedo.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation-sites": "^6.3.1"
+  }
+}

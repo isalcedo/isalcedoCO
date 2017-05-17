@@ -1,3 +1,5 @@
+@import 'fonts/font.css';
+
 body {
     font-family: 'Roboto condensed';
 }
@@ -21,20 +23,20 @@ body {
             margin-bottom: 10px;
             a {
                 font-size: 16px;
-                font-weight: 600;
+                font-weight: 700;
                 color: #f07a2a;
             }
         }
         h2 {
             margin-bottom: 5px;
             font-size: 36px;
-            font-weight: 600;
+            font-weight: 700;
             color: #f07a2a;
             line-height: 1;
         }
         h3 {
             font-size: 16px;
-            font-weight: 600;
+            font-weight: 700;
             color: #f07a2a;
             line-height: 1;
         }
@@ -44,9 +46,14 @@ body {
 
         .social_list {
             list-style: none;
+
+            li {
+                margin-bottom: 12px;
+            }
+
             a {
                 font-size: 16px;
-                font-weight: 600;
+                font-weight: 700;
                 color: #f07a2a;
             }
         }
@@ -59,25 +66,25 @@ body {
 }
 span.orange {
     color: #f07a2a;
-    font-weight: 600;
+    font-weight: 700;
 }
 .info_body {
     h2 {
         font-size: 20px;
-        font-weight: 600;
+        font-weight: 700;
         color: #f07a2a;
         text-transform: uppercase;
 
         small {
             font-size: 15px;
             color: #f07a2a;
-            font-weight: 600;
+            font-weight: 700;
         }
     }
     h3 {
         font-size: 16px;
         color: #333;
-        font-weight: 600;
+        font-weight: 700;
         font-style: italic;
 
         small {
@@ -106,6 +113,25 @@ span.orange {
         }
         .skill_empty {
             background: url(../img/skill_status.svg) top right no-repeat;
+        }
+    }
+}
+@media screen and (max-width: 39.9375em) {
+    .is_grey {
+        .profile_info {
+            h2 {
+                font-size: 17px;
+            }
+            h3 {
+                font-size: 13px;
+            }
+        }
+        .profile_social {
+            .social_list {
+                a {
+                    font-size: 13px;
+                }
+            }
         }
     }
 }

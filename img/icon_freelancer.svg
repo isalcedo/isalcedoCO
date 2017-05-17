@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="10.58333mm"
+   height="10.583517mm"
+   viewBox="0 0 10.58333 10.583517"
+   version="1.1"
+   id="svg3843"
+   sodipodi:docname="icon_freelancer.svg"
+   inkscape:version="0.92.1 r">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="694"
+     inkscape:window-height="480"
+     id="namedview13"
+     showgrid="false"
+     inkscape:zoom="5.8998976"
+     inkscape:cx="42.373264"
+     inkscape:cy="20.000347"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3843" />
+  <defs
+     id="defs3837" />
+  <metadata
+     id="metadata3840">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="opacity:1;fill:#f07a2a;fill-opacity:1;stroke:none;stroke-width:0.50909764;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 0 0 L 0 40 L 40 40 L 40 0 L 0 0 z M 10.441406 8.8769531 L 17.277344 11.486328 L 11.480469 11.185547 L 10.441406 8.8769531 z M 35 9.2617188 L 24.0625 11.761719 L 22.201172 9.2792969 L 35 9.2617188 z M 21.78125 9.2792969 L 23.666016 11.794922 L 18.662109 11.558594 L 21.78125 9.2792969 z M 5 11.169922 L 17.914062 11.84375 L 13.46875 20.316406 L 5 11.169922 z M 18.248047 11.861328 L 23.916016 12.126953 L 22.478516 20.642578 L 17.925781 25.134766 L 13.6875 20.552734 L 18.248047 11.861328 z M 14.171875 21.570312 L 17.685547 25.371094 L 11.849609 31.125 L 14.171875 21.570312 z "
+     transform="scale(0.26458333)"
+     id="path4878" />
+</svg>

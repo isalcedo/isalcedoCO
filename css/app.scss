@@ -59,6 +59,28 @@ body {
         }
     }
 }
+.button.hdv {
+    background: #f07a2a;
+    color: #ddd !important;
+
+    &:hover,
+    &:focus {
+        background: #d9691e;
+    }
+}
+.show-tltr {
+    color: #f07a2a;
+    margin-bottom: 1rem;
+    display: inline-block;
+
+    &:active,
+    &:focus {
+        color: #f07a2a;
+    }
+}
+.isal-tltr {
+    display: none;
+}
 .border {
     height: 2px;
     background-color: #f07a2a;
